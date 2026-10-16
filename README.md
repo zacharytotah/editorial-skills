@@ -1,4 +1,4 @@
-# EditorialSskills
+# Editorial Skills
 
 Claude skills for editing and reviewing product page copy at SelectHub.
 
