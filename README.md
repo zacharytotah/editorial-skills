@@ -1,6 +1,6 @@
 # Editorial Skills
 
-I built these Claude skills for my team. We use them to edit and check product review pages at SelectHub. 
+I built these Claude skills for my team at SelectHub. We use them to edit and check product review pages. 
 
 | Skill | What it does |
 |---|---|
